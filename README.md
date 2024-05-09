@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @IDronik
+- 👀 I’m interested in Python
+- 🌱 I’m currently learning to program in the Python programming language
+- 💞️ I’m looking to collaborate on N/A
+- 📫 How to reach me N/A
+- :hamster:  Fun fact: I'm dumb, but I'm trying to fix it =)
